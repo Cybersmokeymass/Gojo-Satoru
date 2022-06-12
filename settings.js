@@ -23,14 +23,14 @@ global.owner = ['+918547584245']
 global.premium = ['+918547584245']
 global.ownernomer = '+918547584245'
 global.ownername = '🐦Nx.jd🦋'
-global.botname = 'sarasu'
+global.botname = '𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍...♥️🌺'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://instagram.com/_.nx.jd._?igshid=YmMyMTA2M2Y'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Cybersmokeymass'
 global.myweb = ''
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy🦋'
+global.packname = '𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍...♥️🌺'
+global.author = '🐦Najad🦋'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
