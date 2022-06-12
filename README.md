@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/f235e79e7a4d0154ad524.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## 𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍...♥️🌺
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
